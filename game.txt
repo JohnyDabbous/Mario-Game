@@ -1,0 +1,61 @@
+Level: 1
+b c g 
+g k H 
+c k k 
+Mario is at the point 2,3
+===============================
+Mario will move up.
+You are about to fight a goomba. Good luck.
+You beat the goomba.
+Level: 1
+b c H 
+g k x 
+c k k 
+Mario is at the point 1,3
+===============================
+Mario will move left.
+You landed on a coin tile.
+Your coin count increased by 1.
+Mario's Stats
+Lives: 1
+Coin count: 1
+Power Level(PL): 0
+Level: 1
+b H x 
+g k x 
+c k k 
+Mario is at the point 1,2
+===============================
+Mario will move left.
+You are about to fight the boss. Good luck.
+You beat the boss.
+Mario's Stats
+Lives: 1
+Coin count: 1
+Power Level(PL): 0
+Level: 2
+m x c 
+g k b 
+H w k 
+Mario is at the point 3,1
+===============================
+Mario will move right.
+You found the warp pipe. You move on to the next level.
+Mario's Stats
+Lives: 1
+Coin count: 1
+Power Level(PL): 0
+Level: 3
+k H b 
+k g m 
+c m m 
+Mario is at the point 1,2
+===============================
+Mario will move right.
+You are about to fight the boss. Good luck.
+You beat the boss.
+Mario's Stats
+Lives: 1
+Coin count: 1
+Power Level(PL): 0
+You won and have rescued the princess!
